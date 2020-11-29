@@ -1,6 +1,6 @@
-# LinkedIn Learning Video Downloader | [Teenenggr.com](https://teenenggr.com/)
+# LinkedIn Learning Video Downloader 
 
-#### Based on [mclmza's linkedin-learning-downloader](https://github.com/mclmza/linkedin-learning-downloader) Edited by Jatin Patel
+#### Based on [mclmza's linkedin-learning-downloader](https://github.com/mclmza/linkedin-learning-downloader) Edited by Gyan Prakash
 
 
 
